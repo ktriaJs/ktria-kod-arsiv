@@ -1,5 +1,5 @@
-Selam Ben Ktria Sizler İçin Klasikleşmiş Bazı Kodları Yazarak Paylaşma Kararı Aldım,
-Saçma Saçma Yerlerden Bakmanıza Gerek Yok""
+<h1> Selam Ben Ktria Sizler İçin Klasikleşmiş Bazı Kodları Yazarak Paylaşma Kararı Aldım,
+Saçma Saçma Yerlerden Bakmanıza Gerek Yok"" </h1>
 
 Her Gün Kod Eklenecektir.
 
