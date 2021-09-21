@@ -24,3 +24,8 @@ module.exports.conf = {
 module.exports.help = {
   name: "sesyt"
 };
+
+
+
+
+// + ayar.js adlı bir dosya oluşturun "yetkilirol" : "" seçeneği içerisine yetkili rol id koyun.
